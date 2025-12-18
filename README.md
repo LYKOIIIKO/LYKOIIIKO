@@ -34,9 +34,6 @@
 
 ### 📁 Закреплённые проекты
 
-<!-- ВАЖНО: Вы должны закрепить эти репозитории в настройках профиля GitHub -->
-Здесь будут отображаться ваши ключевые проекты. В настройках профиля GitHub закрепите 3-6 лучших репозиториев.
-
 1. [Homeplants Market](https://github.com/LYKOIIIKO/homeplants_market) - Пет-проект, интернет-магазин по продаже комнатных растений.
 2. [Kettlebell timer for competition](https://github.com/LYKOIIIKO/kettlebell-timer-for-competition) - таймер для проведения соревнований по гиревому спорту.
 3. [Tamagotchi](https://github.com/LYKOIIIKO/JS_Tamagotchi) - игра-тамаготчи где в главной роли выступает котик Pusheen.
