@@ -6,9 +6,9 @@
 ### 🧑‍💻 Обо мне
 
 -   🧠 **Фокус:** TypeScript, React, Redux Toolkit/RTK Query, создание тестируемых и поддерживаемых компонентных библиотек.
--   🚀 **Цель:** Развиваться в сторону изучения Next.js и React Native, углублять знания в архитектуре и UX высоконагруженных приложений.
--   💼 **Опыт:** Более 2-х лет коммерческой разработки (Aston (аутсорс)). Работал в командах по методологии Scrum (Jira).
--   📚 **Постоянно изучаю:** Современные инструменты для повышения качества кода и производительности.
+-   🚀 **Цель:** Развиваться в сторону глубокого изучения Next.js и React Native, углублять знания в архитектуре и UX высоконагруженных приложений.
+-   💼 **Опыт:** Более 2.5 лет коммерческой разработки (Aston (аутсорс), Чиббис (продукт)). Работал в командах по методологии Scrum (Jira).
+-   📚 **Постоянно изучаю:** Современные инструменты для повышения качества кода и производительности, ускорение работы за счет LLM.
 
 ---
 
@@ -28,7 +28,7 @@
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 **Также в работе:**
-`React Router` `React Hook Form` `Yup` `Storybook` `SASS/CSS Modules` `MUI` `Ant Design` `ESLint` `Prettier` `Yarn` `Figma` `REST API` `BEM`
+`Next.js` `React Router` `React Hook Form` `Yup` `Storybook` `SASS/CSS Modules` `MUI` `Ant Design` `ESLint` `Prettier` `Yarn` `Figma` `REST API` `BEM`
 
 ---
 
