@@ -12,6 +12,14 @@
 
 ---
 
+### 📄 Резюме
+
+[![Смотреть резюме](https://img.shields.io/badge/-Смотреть_резюме-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nZ3_B6z-1_VxJl_NcNNbpFaTpZmLv925/view?usp=sharing)
+
+Актуальную версию резюме можно посмотреть по ссылке выше.
+
+---
+
 ### 🛠️ Технологический стек
 
 **Основной стек:**
@@ -19,10 +27,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
@@ -45,3 +55,4 @@
 *   **Telegram:** [@haba_anton](https://t.me/haba_anton)
 *   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/haba-anton/) 
 *   **Почта:** lykoiiiko@gmail.com
+*   **Резюме:** [Смотреть](https://drive.google.com/file/d/1nZ3_B6z-1_VxJl_NcNNbpFaTpZmLv925/view?usp=sharing)
